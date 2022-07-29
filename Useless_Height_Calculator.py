@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-print('--------Useless_Height_Calculator--------')
-print(" ")
-height = input("Input your height: ")
+print('\n--------Useless_Height_Calculator--------')
+height = input("\nInput your height: ")
 unit = input("Unit? ")
 print("Your height is " + height + unit)
